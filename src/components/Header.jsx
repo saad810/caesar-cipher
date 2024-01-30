@@ -7,7 +7,7 @@ const Header = () => {
       <a href="#" className='text-2xl font-semibold font-mono text-slate-800  '>
         Caesar Cipher
       </a>
-      <a href="#" className='flex items-center '>
+      <a href="https://github.com/saad810/caesar-cipher" className='flex items-center '>
         <img src={github} alt="github logo" className='w-10 ' />
         <p className='pl-2'>Repo</p>
       </a>
